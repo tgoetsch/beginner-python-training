@@ -19,4 +19,4 @@ This is intentded to be an introductory course to programming and programming co
 1. Reading and Writing files
 1. ??
 
-# Contributions
+# Contributing
